@@ -1,9 +1,9 @@
-# ml-projects
+# machine-learning
 A repository of machine learning projects on various subjects.
 
 ## Current Projects:
 ### 1. Breast Cancer Detection
-  - Detection of malignant and benign cells with KNeighbors and SVM models
+  - Detection of malignant and benign cells with KNeighbors (KNN) and SVM models
   - Uses cell data from open source UCI library for Machine Learning
 #### Dependencies
     - Python: 3.5.5
@@ -11,4 +11,4 @@ A repository of machine learning projects on various subjects.
     - Matplotlib: 2.2.2
     - pandas: 0.23.4
     - sklearn: 0.20.0
-# machine-learning
+
