@@ -11,3 +11,4 @@ A repository of machine learning projects on various subjects.
     - Matplotlib: 2.2.2
     - pandas: 0.23.4
     - sklearn: 0.20.0
+# machine-learning
