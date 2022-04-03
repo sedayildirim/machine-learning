@@ -12,3 +12,4 @@ A repository of machine learning projects on various subjects.
     - pandas: 0.23.4
     - sklearn: 0.20.0
 
+### 2. Board Game Review Prediction
